@@ -3,4 +3,4 @@ spring:
     name: config-center
 
 config:
-  info: main branch,springcloud-config/config-dev.yml version=6
+  info: main branch,springcloud-config/config-dev.yml version=7
